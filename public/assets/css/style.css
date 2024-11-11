@@ -1,0 +1,48 @@
+ 
+/* Custom styles for Examify */
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f9fafb; /* Light background */
+    color: #333; /* Dark text */
+}
+
+header {
+    background-color: #1e3a8a; /* Dark blue */
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.button-primary {
+    background-color: #3b82f6; /* Blue */
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+}
+
+.button-primary:hover {
+    background-color: #2563eb; /* Darker blue */
+}
+
+.section {
+    padding: 40px;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}

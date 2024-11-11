@@ -1,0 +1,86 @@
+1. Root-Level Files
+
+index.php (landing page)
+README.md
+composer.json (for dependency management)
+.htaccess (for URL rewriting if necessary)
+
+
+2. Config Directory
+
+database.php (database connection script)
+config.php (application configuration)
+
+
+3. Public Directory
+
+Subdirectories:
+assets/css/
+style.css (custom styles)
+tailwind.css (Tailwind configurations)
+assets/js/
+app.js (main JavaScript file)
+animations.js (for custom animations)
+assets/images/ (high-quality SVGs and images)
+assets/fonts/ (custom fonts)
+index.php (entry point for the application)
+login.php (login page)
+signup.php (signup page)
+
+
+4. Pages Directory
+
+Student Pages:
+dashboard.php (student dashboard)
+take_exam.php (exam-taking page)
+results.php (view results)
+
+Teacher Pages:
+dashboard.php (teacher dashboard)
+create_exam.php (create and manage exams)
+manage_results.php (review and manage results)
+student_list.php (manage enrolled students)
+
+Admin Pages:
+dashboard.php (admin dashboard)
+user_management.php (manage users)
+exam_overview.php (overview of all exams)
+site_settings.php (application-wide settings)
+
+
+5. Includes Directory
+
+Classes:
+User.php (user-related operations)
+Classroom.php (classroom management)
+Exam.php (exam creation and management)
+Result.php (result processing)
+
+Functions:
+common.php (helper functions)
+
+
+6. Templates Directory
+
+header.php (header template)
+footer.php (footer template)
+navbar.php (navigation bar)
+
+
+7. Vendor Directory
+
+autoload.php (for composer packages)
+
+
+8. Database Directory
+
+migrations/ (SQL migration files)
+seeders/ (initial data population)
+
+
+9. Assets Directory
+
+CSS Frameworks:
+tailwind.min.css (main Tailwind CSS)
+JavaScript Frameworks:
+animate.min.js (Animate.css file)
