@@ -1,2 +1,0 @@
-# Examify
- Examify is an online examination and classroom management system designed for educational institutions. Built to emulate key features of Google Classroom, it offers seamless login, class joining via code, exam management, result processing, and user roles for students, teachers, and administrators. The project is crafted with a modern tech stack, featuring PHP, MySQL, JavaScript, and Tailwind CSS, ensuring a polished and interactive UI enhanced by Animate.css and high-quality SVGs.
