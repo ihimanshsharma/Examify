@@ -1,8 +1,10 @@
 <h1 align="center">📚 Examify</h1>
 
 <p align="center">
-  <i>Examify is an online examination and classroom management system designed for educational institutions. Built to emulate key features of Google Classroom, it offers seamless login, class joining via code, exam management, result processing, and user roles for students, teachers, and administrators. The project is crafted with a modern tech stack, featuring PHP, MySQL, JavaScript, and Tailwind CSS, ensuring a polished and interactive UI enhanced by Animate.css</i>
+  Examify is an online examination and classroom management system designed for educational institutions. Built to emulate key features of Google Classroom, it offers seamless login, class joining via code, exam management, result processing, and user roles for students, teachers, and administrators. The project is crafted with a modern tech stack, featuring PHP, MySQL, JavaScript, and Tailwind CSS, ensuring a polished and interactive UI enhanced by Animate.css
 </p>
+
+------
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4CAF50&center=true&vCenter=true&width=435&lines=Manage+Exams+Efficiently;Student+and+Teacher+Focused;Secure+and+User-Friendly" alt="Typing SVG">
@@ -94,5 +96,9 @@ cd Examify</code></pre>
   Contributions are welcome! Please open an issue or submit a pull request.
 </p>
 
-<h2 align="center">📬 Contact</h2>
-<p align="center">Feel free to reach out via <a href="mailto:talk.himanshsharma@gmail.com">Email</a>.</p>
+<h2 align="left">📬 Contact</h2>
+<p align="left">Feel free to reach out via <a href="mailto:talk.himanshsharma@gmail.com">Email</a>.</p>
+
+------
+
+Made with :heart: and PHP
