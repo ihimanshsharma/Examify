@@ -1,7 +1,7 @@
 <h1 align="center">📚 Examify</h1>
 
 <p align="center">
-  <i>An intuitive and powerful online examination system designed for modern educational needs, inspired by the robust features of Google Classroom.</i>
+  <i>Examify is an online examination and classroom management system designed for educational institutions. Built to emulate key features of Google Classroom, it offers seamless login, class joining via code, exam management, result processing, and user roles for students, teachers, and administrators. The project is crafted with a modern tech stack, featuring PHP, MySQL, JavaScript, and Tailwind CSS, ensuring a polished and interactive UI enhanced by Animate.css</i>
 </p>
 
 <p align="center">
@@ -20,6 +20,8 @@
 
 <h2 align="left">🔧 Tech Stack</h2>
 <p align="left">
+  <a href="https://www.html.com/" target="_blank"><img src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<!--   <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white"/></a> -->
   <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
